@@ -1,0 +1,239 @@
+[
+    {
+       "city": "Mumbai",
+       "property": [
+          {
+             "address": "Mulund West, Mumbai - Central Mumbai, Maharashtra",
+             "location": "Mulund West",
+             "type": "For Rent",
+             "price": 8677
+          },
+          {
+             "address": "Bhandup West, Mumbai - Central Mumbai, Maharashtra",
+             "location": "Bhandup West",
+             "type": "For Sale",
+             "price": 7689
+          },
+          {
+             "address": "Powai, Mumbai - Central Mumbai, Maharashtra",
+             "location": "Powait",
+             "type": "For Rent",
+             "price": 6879
+          },
+          {
+             "address": "101, Harsha Apartment 193 Plot Sher e Punjab society, Andheri East, Mumbai, ",
+             "location": "101, Harsha Apartment 193 Plot",
+             "type": "For Sale",
+             "price": 7543
+          },
+          {
+             "address": "Goregaon West, Mumbai - Western Mumbai, Maharashtra",
+             "location": "Goregaon West",
+             "type": "For Rent",
+             "price": 9789
+          },
+          {
+            "address": "Dindoshi - Malad East, Mumbai - Western Mumbai, Maharashtra",
+            "location": "oberoi mall, dindoshi court",
+            "type": "For Sale",
+            "price": 6789
+         },
+         {
+            "address": "Malad West, Malad West, Mumbai - Western Mumbai, Maharashtra",
+            "location": "Malad West",
+            "type": "For Rent",
+            "price": 8900
+         },
+         {
+            "address": "Dindoshi - Malad East, Mumbai - Western Mumbai, Maharashtra",
+            "location": "Dindoshi - Malad East",
+            "type": "For Rent",
+            "price": 6543
+         },
+         {
+            "address": "Evershine nagar malad west, Malad West, Mumbai - Western Mumbai",
+            "location": "Evershine nagar malad west",
+            "type": "For Sale",
+            "price": 8989
+         }
+       ]
+    },
+    {
+        "city": "NewYork",
+        "property": [
+           {
+              "address": "7140 Bear Ridge Rd, North Tonawanda, NY 14120",
+              "location": "7140 Bear Ridge Rd",
+              "type": "For Rent",
+              "price": "8,677"
+           },
+           {
+              "address": "300 Seneca Pl, Lancaster, NY 14086",
+              "location": "300 Seneca Pl",
+              "type": "For Sale",
+              "price":" 7,689"
+           },
+           {
+              "address": "Powai, Mumbai - Central Mumbai, Maharashtra",
+              "location": "Powait",
+              "type": "For Rent",
+              "price": 6879
+           },
+           {
+              "address": "7618 Dutton Rd, Croghan, NY 13327",
+              "location": "7618 Dutton Rd",
+              "type": "For Sale",
+              "price": "7543"
+           },
+           {
+              "address": "26 Parkside Trail, Ballston Lake, NY 12019",
+              "location": "26 Parkside Trail",
+              "type": "For Rent",
+              "price": "9,789"
+           },
+           {
+             "address": "7255 Ashley Ln, North Tonawanda, NY 14120",
+             "location": "7255 Ashley Ln",
+             "type": "For Sale",
+             "price": "6,789"
+          },
+          {
+             "address": "113 Madison Cir, Horseheads, NY 14845",
+             "location": "113 Madison Cir",
+             "type": "For Rent",
+             "price":" 8,900"
+          },
+          {
+            "address": "26 Parkside Trail, Ballston Lake, NY 12019",
+            "location": "26 Parkside Trail",
+            "type": "For Rent",
+            "price": "9,789"
+         },
+          {
+            "address": "26 Parkside Trail, Ballston Lake, NY 12019",
+            "location": "26 Parkside Trail",
+            "type": "For Rent",
+            "price": "9,789"
+         }
+        ]
+     },
+     {
+        "city": "Paris",
+        "property": [
+           {
+              "address": "Mulund West, Mumbai - Central Mumbai, Maharashtra",
+              "location": "Mulund West",
+              "type": "For Rent",
+              "price": 8677
+           },
+           {
+              "address": "Bhandup West, Mumbai - Central Mumbai, Maharashtra",
+              "location": "Bhandup West",
+              "type": "For Sale",
+              "price": 7689
+           },
+           {
+              "address": "Powai, Mumbai - Central Mumbai, Maharashtra",
+              "location": "Powait",
+              "type": "For Rent",
+              "price": 6879
+           },
+           {
+              "address": "101, Harsha Apartment 193 Plot Sher e Punjab society, Andheri East, Mumbai - Western Mumbai, Maharashtra",
+              "location": "101, Harsha Apartment 193 Plot",
+              "type": "For Sale",
+              "price": 7543
+           },
+           {
+              "address": "Goregaon West, Mumbai - Western Mumbai, Maharashtra",
+              "location": "Goregaon West",
+              "type": "For Rent",
+              "price": 9789
+           },
+           {
+             "address": "Dindoshi - Malad East, Mumbai - Western Mumbai, Maharashtra",
+             "location": "oberoi mall, dindoshi court, arey metro station",
+             "type": "For Sale",
+             "price": 6789
+          },
+          {
+             "address": "Malad West, Malad West, Mumbai - Western Mumbai, Maharashtra",
+             "location": "Malad West",
+             "type": "For Rent",
+             "price": 8900
+          },
+          {
+             "address": "Dindoshi - Malad East, Mumbai - Western Mumbai, Maharashtra",
+             "location": "Dindoshi - Malad East",
+             "type": "For Rent",
+             "price": 6543
+          },
+          {
+             "address": "Evershine nagar malad west, Malad West, Mumbai - Western Mumbai, Maharashtra",
+             "location": "Evershine nagar malad west",
+             "type": "For Sale",
+             "price": 8989
+          }
+        ]
+     },
+     {
+        "city": "London",
+        "property": [
+           {
+              "address": "RCE Theaters-907 S Beckford Dr,Henderson,NC 27536",
+              "location": "8558 Pecan st.",
+              "type": "For Rent",
+              "price": "7,225"
+           },
+           {
+              "address": "One Hyde Park, Knightsbridge",
+              "location": "One Hyde Park",
+              "type": "For Sale",
+              "price": "7,389"
+           },
+           {
+              "address": "Tite Street, Chelsea, London SW3",
+              "location": "Tite Street",
+              "type": "For Rent",
+              "price": "6,809"
+           },
+           {
+              "address": "Belgravia Gate, Grosvenor Crescent, Belgravia, London",
+              "location": "Belgravia Gate",
+              "type": "For Sale",
+              "price": "4534"
+           },
+           {
+              "address": "82, Mount Street, Mayfair, London, W1K",
+              "location": " Mount Street",
+              "type": "For Rent",
+              "price": "9,789"
+           },
+           {
+             "address": "Brick Street, Mayfair, London, W1J",
+             "location": "Brick Street",
+             "type": "For Sale",
+             "price": "6,789"
+          },
+          {
+             "address": "Piccadilly, Mayfair, London, W1J",
+             "location": "Piccadilly",
+             "type": "For Rent",
+             "price":" 8,900"
+          },
+          {
+            "address": "Tite Street, Chelsea, London SW3",
+            "location": "Tite Street",
+            "type": "For Rent",
+            "price": "6,809"
+         },
+         {
+            "address": "Belgravia Gate, Grosvenor Crescent, Belgravia, London",
+            "location": "Belgravia Gate",
+            "type": "For Sale",
+            "price": "4534"
+         }
+        ]
+     }
+ ]
+ 
